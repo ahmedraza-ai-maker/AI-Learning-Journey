@@ -4,9 +4,11 @@ Hi, I'm Ahmed Raza.
 
 Welcome to my AI Learning Journey repository.
 
+---
+
 ## 📚 What I'm Learning
 
-- Python
+- Python Programming
 - Machine Learning
 - Deep Learning
 - TensorFlow
@@ -15,31 +17,60 @@ Welcome to my AI Learning Journey repository.
 - Scikit-learn
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
+- Git & GitHub
+
+---
 
 ## 🎯 Goal
 
-To become an AI Engineer by building real-world AI projects and solving practical problems.
+My goal is to become an AI Engineer by building real-world AI projects, solving practical problems, and continuously improving my skills.
 
-## 📂 Upcoming Projects
+---
 
-- 🫀 Heart Disease Prediction
+## 📂 Projects (Coming Soon)
+
+- ❤️ Heart Disease Prediction
 - 🏠 House Price Prediction
-- 🎬 Movie Review Sentiment Analysis (LSTM)
+- 🎬 Movie Sentiment Analysis (LSTM & GRU)
 - 📄 AI Resume Analyzer
 - 🤖 RAG Chatbot
 - 💬 AI Interview Assistant
+- 📈 Data Analysis Projects
+
+---
 
 ## 🛠️ Tech Stack
 
 - Python
-- TensorFlow
-- Scikit-learn
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
+- Scikit-learn
+- TensorFlow
 - Git
 - GitHub
+- VS Code
 
 ---
 
-⭐ This repository will grow as I continue learning and building AI solutions.
+## 📅 Learning Progress
+
+- ✅ Python
+- ✅ NumPy
+- ✅ Pandas
+- ✅ Matplotlib
+- ✅ Machine Learning
+- ✅ Deep Learning
+- ✅ CNN
+- ✅ RNN
+- ✅ LSTM
+- ✅ GRU
+- ✅ Self Attention
+- ✅ Transformers
+- ✅ Prompt Engineering
+- ✅ RAG Basics
+- 🔄 Agentic AI (Learning)
+
+---
+
+⭐ This repository documents my complete AI learning journey and all upcoming projects.
