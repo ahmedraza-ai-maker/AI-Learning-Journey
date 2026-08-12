@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
+from pathlib import Path
 
 
 st.title("❤️ Heart Disease Prediction")
@@ -10,7 +11,8 @@ st.title("❤️ Heart Disease Prediction")
 st.write("Enter the patient's information below to get a model prediction.")
 
 # Load dataset
-data = pd.read_csv("heart.csv", sep="\t")
+data_path = Path(__file__).parent / "heart.csv"
+data = pd.read_csv(data_path, sep="\t")
 
 # Separate features and target
 X = data.drop("target", axis=1)
