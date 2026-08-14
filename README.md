@@ -27,15 +27,23 @@ My goal is to become an AI Engineer by building real-world AI projects, solving 
 
 ---
 
-## 📂 Projects (Coming Soon)
+## 🚀 Projects
 
-- ❤️ Heart Disease Prediction
-- 🏠 House Price Prediction
-- 🎬 Movie Sentiment Analysis (LSTM & GRU)
-- 📄 AI Resume Analyzer
-- 🤖 RAG Chatbot
-- 💬 AI Interview Assistant
-- 📈 Data Analysis Projects
+### ✅ Completed Projects
+
+* ❤️ **Heart Disease Prediction** — Machine Learning Classification
+* 📄 **AI Resume Analyzer** — AI-powered Resume Analysis
+* 📊 **Data Analysis Projects** — Python, Pandas & Matplotlib
+
+### 🔨 Currently Building
+
+* 🏠 **House Price Prediction** — Machine Learning Regression
+
+### 📌 Upcoming Projects
+
+* 🎬 **Movie Sentiment Analysis** — LSTM & GRU
+* 🤖 **RAG Chatbot** — Retrieval-Augmented Generation
+* 💬 **AI Interview Assistant** — AI-powered Interview Practice
 
 ---
 
