@@ -37,13 +37,14 @@ My goal is to become an AI Engineer by building real-world AI projects, solving 
 
 ### 🔨 Currently Building
 
-* 🏠 **House Price Prediction** — Machine Learning Regression
+* 🎬 **Movie Sentiment Analysis** — LSTM & GRU
 
 ### 📌 Upcoming Projects
 
 * 🎬 **Movie Sentiment Analysis** — LSTM & GRU
 * 🤖 **RAG Chatbot** — Retrieval-Augmented Generation
 * 💬 **AI Interview Assistant** — AI-powered Interview Practice
+* 🏠 **House Price Prediction**
 
 ---
 
